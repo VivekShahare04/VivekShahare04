@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VivekShahare04
-- 👀 I’m interested in Software Development and Backend 
-- 🌱 I’m currently learning Java and C++
+- 👀 I’m interested in frontend Development
+- 🌱 I’m currently learning Java as primary language
 - 💞️ I’m looking to collaborate on different multinational companies such as microsoft,atlassian,google,etc.
 - 📫 How to reach me ....mylinkedin id:-Vivek Shahare
 
