@@ -1,3 +1,5 @@
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VivekShahare04)](https://git.io/streak-stats)
+
 - 👋 Hi, I’m @VivekShahare04
 - 👀 I’m interested in frontend Development
 - 🌱 I’m currently learning Java as primary language
