@@ -1,6 +1,4 @@
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VivekShahare04)](https://git.io/streak-stats)
-
-- 👋 Hi, I’m @VivekShahare04
+- 👋 Hi, I’m Vivek Shahare
 - 👀 I’m interested in frontend Development
 - 🌱 I’m currently learning Java as primary language
 - 💞️ I’m looking to collaborate on different multinational companies such as microsoft,atlassian,google,etc.
